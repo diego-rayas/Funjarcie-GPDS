@@ -1,4 +1,4 @@
-<h1 align="center"> FUNJARCIE</h1>
+<h1 align="center"> ERP FUNJARCIE</h1>
 
 ## Integrantes:
 
@@ -12,8 +12,6 @@ Desarrollar una aplicación web donde se lleve el control administrativo de los 
 departamentos. La aplicación facilitará los diferentes procesos administrativos de la empresa, así optimizando el tiempo de algunos procesos y simplificando el trabajo de los empleados. 
 
 ## Historia de los usuarios 
-| First Header  | Second Header |
-
 
 | ID  | NOMBRE | DESCRIPCION  | 
 | ------------- | ------------- |------------- |
